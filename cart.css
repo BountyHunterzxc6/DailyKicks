@@ -1,3 +1,7 @@
+nav {
+    background-color: whitesmoke;
+}
+
 .row {
     display: -ms-flexbox; 
     display: flex;
